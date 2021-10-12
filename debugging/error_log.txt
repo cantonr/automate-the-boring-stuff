@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/rcanton/Development/python/automate-the-boring-stuff/debugging/raise-assert.py", line 31, in <module>
+    raise Exception('This is an error message')
+Exception: This is an error message
+Traceback (most recent call last):
+  File "/Users/rcanton/Development/python/automate-the-boring-stuff/debugging/raise-assert.py", line 31, in <module>
+    raise Exception('This is an error message')
+Exception: This is an error message

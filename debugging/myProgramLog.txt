@@ -1,0 +1,18 @@
+2021-10-12 13:14:41,234 - DEBUG - Start of program
+2021-10-12 13:14:41,234 - DEBUG - Start of factorial(5)
+2021-10-12 13:14:41,234 - CRITICAL - i is 1, total is 1
+2021-10-12 13:14:41,234 - CRITICAL - i is 2, total is 2
+2021-10-12 13:14:41,235 - CRITICAL - i is 3, total is 6
+2021-10-12 13:14:41,235 - CRITICAL - i is 4, total is 24
+2021-10-12 13:14:41,235 - CRITICAL - i is 5, total is 120
+2021-10-12 13:14:41,235 - CRITICAL - Return value is 120
+2021-10-12 13:14:41,235 - DEBUG - Start of program
+2021-10-12 13:16:53,295 - DEBUG - Start of program
+2021-10-12 13:16:53,296 - DEBUG - Start of factorial(5)
+2021-10-12 13:16:53,296 - CRITICAL - i is 1, total is 1
+2021-10-12 13:16:53,296 - CRITICAL - i is 2, total is 2
+2021-10-12 13:16:53,296 - CRITICAL - i is 3, total is 6
+2021-10-12 13:16:53,296 - CRITICAL - i is 4, total is 24
+2021-10-12 13:16:53,296 - CRITICAL - i is 5, total is 120
+2021-10-12 13:16:53,296 - CRITICAL - Return value is 120
+2021-10-12 13:16:53,296 - DEBUG - Start of program
