@@ -218,3 +218,5 @@ JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILU
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1634075986887	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1634076019103	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
